@@ -47,6 +47,8 @@ Before you begin, ensure you have the following installed:
 
 then login ur github username 
 get access token from https://github.com/settings/tokens
+
+after succesfully git clone
     ``` cd pharos-testnet 
     ```
 
