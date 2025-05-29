@@ -44,6 +44,8 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository (or download the script):**
     ```bash
     git clone https://github.com/Elanarcy/pharos-testnet.git
+then
+    cd pharos-testnet 
     ```
 
 2.  **Install dependencies:**
