@@ -57,10 +57,7 @@ after succesfully git clone
     ```bash
     npm install ethers@5 axios
     ```
-    or, if you prefer yarn:
-    ```bash
-    yarn add ethers axios
-    ```
+   
 
 ## Configuration
 
