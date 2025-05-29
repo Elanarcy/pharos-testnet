@@ -43,11 +43,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository (or download the script):**
     ```bash
-    # If you have a git repository
-    # git clone <your-repository-url>
-    # cd <your-repository-name>
-
-    # If you only have the script file, navigate to its directory
+    git clone https://github.com/Elanarcy/pharos-testnet.git
     ```
 
 2.  **Install dependencies:**
@@ -79,9 +75,9 @@ While most settings are hardcoded for the Pharos Testnet, be aware of the follow
 1.  **Navigate to the script's directory** in your terminal.
 2.  **Run the script** using Node.js:
     ```bash
-    node your_script_name.js
+    node main.js
     ```
-    (Replace `your_script_name.js` with the actual name of the script file, e.g., `pharos-bot.js`)
+
 
 3.  **Follow the on-screen prompts:**
     * You will be asked to **enter your wallet private key(s)** (comma-separated if multiple).
@@ -89,7 +85,6 @@ While most settings are hardcoded for the Pharos Testnet, be aware of the follow
         1.  Swap WPHRS->USDC
         2.  Swap USDC->WPHRS
         3.  Add/Increase Liquidity
-        4.  (Removed - was Test Verification)
         5.  Check Balances
     * Based on your selection, you might be asked for the **number of loops** (for swaps/liquidity actions) and the **amount of tokens** to use.
 
