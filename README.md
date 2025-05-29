@@ -51,7 +51,7 @@ then
 2.  **Install dependencies:**
     Open your terminal in the project directory and run:
     ```bash
-    npm install ethers axios
+    npm install ethers@5 axios
     ```
     or, if you prefer yarn:
     ```bash
