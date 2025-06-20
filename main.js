@@ -17,7 +17,7 @@ const TELEGRAM_CHANNEL = "t.me/cssurabaya";
 
 // Pharos Testnet configuration
 const RPC_URLS = [
-    'https://api.zan.top/node/v1/pharos/testnet/1761472bf26745488907477d23719fb5' // Zan RPC
+    'https://testnet.dplabs-internal.com' // Zan RPC
 ];
 const ACTIVE_RPC_URL = RPC_URLS[0];
 
